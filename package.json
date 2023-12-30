@@ -1,0 +1,18 @@
+{
+  "name": "back-end-course",
+  "version": "1.0.0",
+  "description": "a simple backend application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Yasin Arafat",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
